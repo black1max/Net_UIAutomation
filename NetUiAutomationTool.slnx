@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NetUiAutomationTool/NetUiAutomationTool.csproj" />
+    <Project Path="src/SampleWinFormsApp/SampleWinFormsApp.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NetUiAutomationTool.Tests/NetUiAutomationTool.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,14 @@
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\bin\Debug\net10.0-windows\SampleWinFormsApp.exe
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\bin\Debug\net10.0-windows\SampleWinFormsApp.deps.json
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\bin\Debug\net10.0-windows\SampleWinFormsApp.runtimeconfig.json
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\bin\Debug\net10.0-windows\SampleWinFormsApp.dll
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\bin\Debug\net10.0-windows\SampleWinFormsApp.pdb
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\obj\Debug\net10.0-windows\SampleWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\obj\Debug\net10.0-windows\SampleWinFormsApp.AssemblyInfoInputs.cache
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\obj\Debug\net10.0-windows\SampleWinFormsApp.AssemblyInfo.cs
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\obj\Debug\net10.0-windows\SampleWinFormsApp.csproj.CoreCompileInputs.cache
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\obj\Debug\net10.0-windows\SampleWinFormsApp.dll
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\obj\Debug\net10.0-windows\refint\SampleWinFormsApp.dll
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\obj\Debug\net10.0-windows\SampleWinFormsApp.pdb
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\obj\Debug\net10.0-windows\SampleWinFormsApp.genruntimeconfig.cache
+C:\TEMP\Net_UIAutomation\src\SampleWinFormsApp\obj\Debug\net10.0-windows\ref\SampleWinFormsApp.dll

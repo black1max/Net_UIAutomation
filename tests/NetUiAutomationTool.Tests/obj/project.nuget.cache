@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lkx8u93zYlM=",
+  "success": true,
+  "projectFilePath": "C:\\TEMP\\Net_UIAutomation\\tests\\NetUiAutomationTool.Tests\\NetUiAutomationTool.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zm7wb\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\flaui.core\\5.0.0\\flaui.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\flaui.uia2\\5.0.0\\flaui.uia2.5.0.0.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\flaui.uia3\\5.0.0\\flaui.uia3.5.0.0.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\interop.uiautomationclient\\10.19041.0\\interop.uiautomationclient.10.19041.0.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.1\\microsoft.net.test.sdk.17.14.1.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.6.2\\microsoft.testing.extensions.telemetry.1.6.2.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.6.2\\microsoft.testing.extensions.trxreport.abstractions.1.6.2.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.6.2\\microsoft.testing.extensions.vstestbridge.1.6.2.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\microsoft.testing.platform\\1.6.2\\microsoft.testing.platform.1.6.2.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.6.2\\microsoft.testing.platform.msbuild.1.6.2.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.14.1\\microsoft.testplatform.objectmodel.17.14.1.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\microsoft.testplatform.testhost\\17.14.1\\microsoft.testplatform.testhost.17.14.1.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\mstest.analyzers\\3.8.2\\mstest.analyzers.3.8.2.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\mstest.testadapter\\3.8.2\\mstest.testadapter.3.8.2.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\mstest.testframework\\3.8.2\\mstest.testframework.3.8.2.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\zm7wb\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
