@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lkx8u93zYlM=",
+  "dgSpecHash": "AS9fZ3WQyJ4=",
   "success": true,
-  "projectFilePath": "C:\\TEMP\\Net_UIAutomation\\tests\\NetUiAutomationTool.Tests\\NetUiAutomationTool.Tests.csproj",
+  "projectFilePath": "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\tests\\NetUiAutomationTool.Tests\\NetUiAutomationTool.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zm7wb\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512",
     "C:\\Users\\zm7wb\\.nuget\\packages\\flaui.core\\5.0.0\\flaui.core.5.0.0.nupkg.sha512",

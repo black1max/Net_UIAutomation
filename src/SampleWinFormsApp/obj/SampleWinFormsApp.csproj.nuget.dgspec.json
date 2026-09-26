@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TEMP\\Net_UIAutomation\\src\\SampleWinFormsApp\\SampleWinFormsApp.csproj": {}
+    "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\src\\SampleWinFormsApp\\SampleWinFormsApp.csproj": {}
   },
   "projects": {
-    "C:\\TEMP\\Net_UIAutomation\\src\\SampleWinFormsApp\\SampleWinFormsApp.csproj": {
+    "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\src\\SampleWinFormsApp\\SampleWinFormsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TEMP\\Net_UIAutomation\\src\\SampleWinFormsApp\\SampleWinFormsApp.csproj",
+        "projectUniqueName": "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\src\\SampleWinFormsApp\\SampleWinFormsApp.csproj",
         "projectName": "SampleWinFormsApp",
-        "projectPath": "C:\\TEMP\\Net_UIAutomation\\src\\SampleWinFormsApp\\SampleWinFormsApp.csproj",
+        "projectPath": "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\src\\SampleWinFormsApp\\SampleWinFormsApp.csproj",
         "packagesPath": "C:\\Users\\zm7wb\\.nuget\\packages\\",
-        "outputPath": "C:\\TEMP\\Net_UIAutomation\\src\\SampleWinFormsApp\\obj\\",
+        "outputPath": "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\src\\SampleWinFormsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,7 +70,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TEMP\\Net_UIAutomation\\tests\\NetUiAutomationTool.Tests\\NetUiAutomationTool.Tests.csproj": {}
+    "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\tests\\NetUiAutomationTool.Tests\\NetUiAutomationTool.Tests.csproj": {}
   },
   "projects": {
-    "C:\\TEMP\\Net_UIAutomation\\src\\NetUiAutomationTool\\NetUiAutomationTool.csproj": {
+    "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\src\\NetUiAutomationTool\\NetUiAutomationTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TEMP\\Net_UIAutomation\\src\\NetUiAutomationTool\\NetUiAutomationTool.csproj",
+        "projectUniqueName": "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\src\\NetUiAutomationTool\\NetUiAutomationTool.csproj",
         "projectName": "NetUiAutomationTool",
-        "projectPath": "C:\\TEMP\\Net_UIAutomation\\src\\NetUiAutomationTool\\NetUiAutomationTool.csproj",
+        "projectPath": "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\src\\NetUiAutomationTool\\NetUiAutomationTool.csproj",
         "packagesPath": "C:\\Users\\zm7wb\\.nuget\\packages\\",
-        "outputPath": "C:\\TEMP\\Net_UIAutomation\\src\\NetUiAutomationTool\\obj\\",
+        "outputPath": "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\src\\NetUiAutomationTool\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -88,7 +88,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -382,14 +382,14 @@
         }
       }
     },
-    "C:\\TEMP\\Net_UIAutomation\\tests\\NetUiAutomationTool.Tests\\NetUiAutomationTool.Tests.csproj": {
+    "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\tests\\NetUiAutomationTool.Tests\\NetUiAutomationTool.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TEMP\\Net_UIAutomation\\tests\\NetUiAutomationTool.Tests\\NetUiAutomationTool.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\tests\\NetUiAutomationTool.Tests\\NetUiAutomationTool.Tests.csproj",
         "projectName": "NetUiAutomationTool.Tests",
-        "projectPath": "C:\\TEMP\\Net_UIAutomation\\tests\\NetUiAutomationTool.Tests\\NetUiAutomationTool.Tests.csproj",
+        "projectPath": "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\tests\\NetUiAutomationTool.Tests\\NetUiAutomationTool.Tests.csproj",
         "packagesPath": "C:\\Users\\zm7wb\\.nuget\\packages\\",
-        "outputPath": "C:\\TEMP\\Net_UIAutomation\\tests\\NetUiAutomationTool.Tests\\obj\\",
+        "outputPath": "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\tests\\NetUiAutomationTool.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -411,8 +411,8 @@
             "framework": "net10.0-windows7.0",
             "targetAlias": "net10.0-windows",
             "projectReferences": {
-              "C:\\TEMP\\Net_UIAutomation\\src\\NetUiAutomationTool\\NetUiAutomationTool.csproj": {
-                "projectPath": "C:\\TEMP\\Net_UIAutomation\\src\\NetUiAutomationTool\\NetUiAutomationTool.csproj"
+              "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\src\\NetUiAutomationTool\\NetUiAutomationTool.csproj": {
+                "projectPath": "C:\\Users\\zm7wb\\source\\repos\\Net_UIAutomation\\src\\NetUiAutomationTool\\NetUiAutomationTool.csproj"
               }
             }
           }
@@ -474,7 +474,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
